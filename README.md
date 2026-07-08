@@ -13,3 +13,5 @@ PROJECT 6 LOGISTIC REGRESSION INSURANCE DASHBOARD - https://artificial-intellige
 PROJECT 7 CAT AND DOG MODEL IMAGE CLASSIFIER DASHBOARD - https://artificial-intelligence-catdogmodel.streamlit.app/
 
 PROJECT 8 MALE AND FEMALE MODEL IMAGE CLASSIFIER DASHBOARD - https://artificial-intelligence-0.streamlit.app/
+
+PROJECT 9 K-Means Clustering on Income Dataset DASHBOARD - https://artificial-intelligence-kmeans.streamlit.app/
