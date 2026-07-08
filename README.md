@@ -17,3 +17,5 @@ PROJECT 8 MALE AND FEMALE MODEL IMAGE CLASSIFIER DASHBOARD - https://artificial-
 PROJECT 9 K-Means Clustering on Income Dataset DASHBOARD - https://artificial-intelligence-kmeans.streamlit.app/
 
 PROJECT 10 Iris Flower Cluster Prediction DASHBOARD- https://artificial-intelligence-kmeans2.streamlit.app/
+
+PROJECT 11 Binary Image Classification using CNN DASHBOARD - https://aastha0011-project-11-binary-image--app-x2o5y0.streamlit.app/
