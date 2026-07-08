@@ -13,7 +13,7 @@ st.title("👨‍💼 Employee Retention Prediction")
 st.write("Predict whether an employee is likely to leave the company.")
 
 # Load dataset
-df = pd.read_csv("Day 3/logistic regression insurance project/project logistic regression retention/HR_comma_sep.csv")
+df = pd.read_csv("PROJECT 4 retention project/HR_comma_sep.csv")
 
 # Feature Engineering
 subdf = df[['satisfaction_level',
