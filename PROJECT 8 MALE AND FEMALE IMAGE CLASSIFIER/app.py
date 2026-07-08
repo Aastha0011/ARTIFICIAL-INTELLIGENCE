@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 
 # Load model
-model = joblib.load("FEMALE_MALE_model.pkl")
+model = joblib.load("PROJECT 8 MALE AND FEMALE IMAGE CLASSIFIER/FEMALE_MALE_model.pkl")
 
 IMG_SIZE = 64
 
