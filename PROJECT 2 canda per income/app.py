@@ -9,7 +9,7 @@ st.title("🇨🇦 Canada Per Capita Income Predictor")
 st.write("Predict Canada's Per Capita Income using Linear Regression.")
 
 # Load data
-df = pd.read_csv("canada_per_capita_income.csv")
+df = pd.read_csv("PROJECT 2 canda per income/canada_per_capita_income.csv")
 
 # Train model
 X = df[['year']]
