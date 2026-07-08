@@ -9,3 +9,5 @@ PROJECT 4 LOGISTIC REGRESSION RETENTION DASHBOARD - https://artificial-intellige
 PROJECT 5 LINEAR REGRESSION HOUSE PRICES DASHBOARD - https://artificial-intelligence-houseprices.streamlit.app/
 
 PROJECT 6 LOGISTIC REGRESSION INSURANCE DASHBOARD - https://artificial-intelligence-insurance.streamlit.app/
+
+PROJECT 7 CAT AND DOG MODEL IMAGE CLASSIFIER DASHBOARD - https://artificial-intelligence-catdogmodel.streamlit.app/
