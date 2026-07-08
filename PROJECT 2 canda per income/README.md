@@ -1,2 +1,2 @@
-# project-3-canada-per-captia-income
+# project-2-canada-per-captia-income
 https://artificial-intelligence-wa6fxxdwsyxvvzfgxnrvk5.streamlit.app/
