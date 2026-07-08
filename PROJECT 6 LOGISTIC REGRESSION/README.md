@@ -1,2 +1,2 @@
 # MY-APP
-https://my-app-ib7jkwkivp9zjnqjwbbqvu.streamlit.app/
+https://artificial-intelligence-insurance.streamlit.app/
