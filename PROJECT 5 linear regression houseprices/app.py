@@ -26,7 +26,7 @@ st.write("Predict house price using Linear Regression")
 # -----------------------------------
 # Load Dataset
 # -----------------------------------
-df = pd.read_csv("houseprice.csv")
+df = pd.read_csv("PROJECT 5 linear regression houseprices/houseprice.csv")
 
 st.subheader("Dataset")
 st.dataframe(df)
