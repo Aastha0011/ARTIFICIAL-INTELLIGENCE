@@ -11,3 +11,5 @@ PROJECT 5 LINEAR REGRESSION HOUSE PRICES DASHBOARD - https://artificial-intellig
 PROJECT 6 LOGISTIC REGRESSION INSURANCE DASHBOARD - https://artificial-intelligence-insurance.streamlit.app/
 
 PROJECT 7 CAT AND DOG MODEL IMAGE CLASSIFIER DASHBOARD - https://artificial-intelligence-catdogmodel.streamlit.app/
+
+PROJECT 8 MALE AND FEMALE MODEL IMAGE CLASSIFIER DASHBOARD - https://artificial-intelligence-0.streamlit.app/
