@@ -21,3 +21,5 @@ PROJECT 10 Iris Flower Cluster Prediction DASHBOARD- https://artificial-intellig
 PROJECT 11 Binary Image Classification using CNN DASHBOARD - https://aastha0011-project-11-binary-image--app-x2o5y0.streamlit.app/
 
 PROJECT 12  COVID-19 Detection from Chest X-Ray DASHBOARD - https://project-12-detection-of-covid.streamlit.app/
+
+PROJECT 13 Male/Female Eye Classification DASHBOARD - https://eye-detection.streamlit.app/
