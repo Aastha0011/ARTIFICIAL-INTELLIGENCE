@@ -23,3 +23,5 @@ PROJECT 11 Binary Image Classification using CNN DASHBOARD - https://aastha0011-
 PROJECT 12  COVID-19 Detection from Chest X-Ray DASHBOARD - https://project-12-detection-of-covid.streamlit.app/
 
 PROJECT 13 Male/Female Eye Classification DASHBOARD - https://eye-detection.streamlit.app/
+
+PROJECT 14 RAG Chatbot for Technical Documentation DASHBOARD - https://project-14---washing-machine-01.streamlit.app/
